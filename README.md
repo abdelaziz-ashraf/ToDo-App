@@ -1,2 +1,3 @@
 # ToDo-App-
-ToDo App using python and Django framework (Small Project)
+To-Do App that handles simple Create, Update and Delete operations. 
+Using python and Django framework.
